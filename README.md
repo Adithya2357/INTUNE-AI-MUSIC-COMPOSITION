@@ -73,9 +73,6 @@ This project introduces an innovative approach to music composition by employing
     python melodygenerator.py
     ```
 4.  Run display.py to open the generated .mid file in MuseScore for easy viewing and editing.
-## Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
