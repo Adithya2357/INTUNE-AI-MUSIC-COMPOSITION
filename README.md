@@ -9,7 +9,6 @@ Traditional piano composition often relies heavily on human expertise, which can
 ## Features
 
 - **AI-Driven Composition**: Utilizes advanced AI techniques to generate original piano compositions.
-- **User-Friendly Interface**: Intuitive interface for seamless interaction with the AI composer.
 - **Accessibility**: Designed for both professional musicians and hobbyists.
 - **Innovative Algorithms**: Employs Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) architectures.
 
