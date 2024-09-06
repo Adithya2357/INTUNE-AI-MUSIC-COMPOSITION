@@ -34,11 +34,6 @@ This project introduces an innovative approach to music composition by employing
 - **Model Training**: Training the neural network models on the prepared datasets.
 - **Evaluation**: Assessing the performance and fine-tuning the models.
 
-### User Interface
-
-- **Interactive UI**: Allows users to interact with the AI composer and generate music effortlessly.
-- **Customization**: Users can tweak parameters to influence the composition style.
-
 ## Getting Started
 
 ### Prerequisites
